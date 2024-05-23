@@ -13,14 +13,14 @@ function Home() {
           A tiny studio making delightful for <br/>
           <span className="hidden user_id">brought to you by </span>
           <span className="inline user_id">from </span>
-          <a href="https://www.alasdairmonk.com" target="_blank" className="relative text-decoration-none text-dark">
+          <a href="https://www.alasdairmonk.com" target="_blank"  rel="noreferrer" className="relative text-decoration-none text-dark">
             <span className="relative">
               <img src="./images/roundle.svg" alt="Avatar for Alasdair Monk" width="32" height="32" className="relative rounded-full"/>
             </span>
             <span className="relative user_id text-decoration-none"> @almonk </span>
           </a>
           &amp; <br/>
-          <a href="https://hector.me" target="_blank" className="relative text-decoration-none text-dark">
+          <a href="https://hector.me" target="_blank" rel="noreferrer" className="relative text-decoration-none text-dark">
             <span className="relative-text  ">
               <img src="./images/avatar.jpg" alt="Avatar for Hector Simpson" width="30" height="30" className="relative rounded-full "/>
             </span>
