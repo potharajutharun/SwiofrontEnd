@@ -1,0 +1,25 @@
+.custom-navbar .first__linkig {
+    position: relative;
+    left: 10rem;
+  }
+  
+  .custom-navbar .center-nav {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+  }
+  
+  .custom-navbar .center-nav .nav-item-centered {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  
+  .custom-navbar .last__linkig {
+    position: relative;
+    right: 10rem;
+  }
+  
+  .custom-navbar .icon {
+    font-weight: bolder;
+  }
+  

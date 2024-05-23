@@ -1,0 +1,30 @@
+.umbra_div {
+
+    background: linear-gradient(45deg, #b66cad 20%,  #30a8d4);
+  
+  
+}
+.bumb_div {
+  background-color: #d1f0fbae;
+}
+.music_div {
+  background: linear-gradient(45deg, #78dc78 20%, #578aa9 );
+  height:38rem;
+  
+}
+.music_innerdiv {
+  position: relative;
+  top: 10rem;
+}
+.relative-text {
+  border: 1px solid black;
+  position: relative;
+  top: 0.5vh;
+  padding: 0px 4px 7px 8px;
+  border-radius: 50%;
+
+}
+.relative-text img {
+  position: relative;
+  right: 0.3rem;
+}
